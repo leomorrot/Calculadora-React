@@ -1,3 +1,7 @@
+# Visualização do Projeto
+
+![alt text] (https://github.com/leomorrot/Calculadora-React/blob/main/Projeto%20Calculadora.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
