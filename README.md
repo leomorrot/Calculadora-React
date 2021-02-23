@@ -1,6 +1,6 @@
 # Visualização do Projeto
 
-![alt text] (https://github.com/leomorrot/Calculadora-React/blob/main/Projeto%20Calculadora.png)
+![alt text](https://github.com/leomorrot/Calculadora-React/blob/main/Projeto%20Calculadora.png)
 
 # Getting Started with Create React App
 
